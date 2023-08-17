@@ -1,0 +1,20 @@
+li{
+    list-style: none;
+  }
+  
+  li a{
+    text-decoration: none;
+    color: black;
+  }
+
+
+
+.navList{
+    background-color: aquamarine;
+    padding: 10px;
+}
+  .navList ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
